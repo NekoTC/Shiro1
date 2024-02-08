@@ -110,7 +110,10 @@ const PoweredBy: Component = ({ className }) => {
       <StyledLink href="https://github.com/innei/Shiro" target="_blank">
         Shiro
       </StyledLink>
-      .
+      . <Divider />
+      <StyledLink href="https://beian.miit.gov.cn" target="_blank">
+        陇ICP备2024006604号
+      </StyledLink>
     </span>
   )
 }
@@ -170,7 +173,7 @@ const FooterBottom = async () => {
           </SubscribeTextButton>
         </span>
         <span className="mt-3 block md:mt-0 md:inline">
-          Stay hungry. Stay foolish.
+          世界が私を忘れて
         </span>
       </p>
       <p>
