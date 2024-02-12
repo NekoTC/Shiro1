@@ -114,6 +114,10 @@ const PoweredBy: Component = ({ className }) => {
       <StyledLink href="https://beian.miit.gov.cn" target="_blank">
         陇ICP备2024006604号
       </StyledLink>
+      . <Divider />
+      <StyledLink href="https://icp.gov.moe/?keyword=20240660" target="_blank">
+        萌ICP备20240660号
+      </StyledLink>
     </span>
   )
 }
