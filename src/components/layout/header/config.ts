@@ -113,6 +113,3 @@ export const headerMenuConfig: IHeaderMenu[] = [
     ],
   },
 ]
-    ],
-  },
-]
