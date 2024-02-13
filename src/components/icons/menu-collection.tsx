@@ -38,7 +38,7 @@ export function FaSolidComments(props: SVGProps<SVGSVGElement>) {
     </svg>
   )
 }
-export function travellings(props: SVGProps<SVGSVGElement>) {
+export function FaSolidTrainSubway(props: SVGProps<SVGSVGElement>) {
   return (
     <svg width="1em" height="1em" viewBox="0 0 448 512" {...props}>
       <path
