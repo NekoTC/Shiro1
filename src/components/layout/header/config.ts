@@ -103,8 +103,16 @@ export const headerMenuConfig: IHeaderMenu[] = [
       {
         title: '跃迁',
         icon: h(RMixPlanet),
-        path: 'https://travel.moe/go.html',
+        path: 'https://travel.moe/go.html?travel=on',
       },
+      {
+        title: '开往',
+        icon: h(travellings),
+        path: 'https://travel.moe/go.html?travel=on',
+      },
+    ],
+  },
+]
     ],
   },
 ]
