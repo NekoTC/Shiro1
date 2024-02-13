@@ -107,7 +107,7 @@ export const headerMenuConfig: IHeaderMenu[] = [
       },
       {
         title: '开往',
-        icon: h(travellings),
+        icon: h(FaSolidTrainSubway),
         path: 'https://travel.moe/go.html?travel=on',
       },
     ],
