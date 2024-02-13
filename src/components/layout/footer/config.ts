@@ -29,8 +29,8 @@ export const defaultLinkSections: LinkSection[] = [
         href: '/friends',
       },
       {
-        name: '监控',
-        href: 'https://status.shizuri.net/status/main',
+        name: '开往',
+        href: 'https://www.travellings.cn/go.html',
         external: true,
       },
     ],
