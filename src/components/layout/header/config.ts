@@ -5,6 +5,7 @@ import {
   FaSolidCircle,
   FaSolidCircleNotch,
   FaSolidComments,
+  FaSolidTrainSubway,
   FaSolidDotCircle,
   FaSolidFeatherAlt,
   FaSolidHistory,
